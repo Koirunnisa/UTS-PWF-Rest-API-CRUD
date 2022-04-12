@@ -1,2 +1,5 @@
-# UTS-PWF-Rest-API-CRUD
-Ujian Tengah Semester Pemograman Web Framework
+Ujian Tengah Semester dengan Laravel
+REST API WITH CRUD
+NAMA : KOIRUNNISA
+NIM : 20416255201059
+KELAS : IF20D
